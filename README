@@ -1,0 +1,32 @@
+Justine asks
+
+> I have a question about excel -
+> 
+>  I am taking formulas found in a paper about pharmacy risk assessment and
+> converting it into tables so that someone without the formula can still
+> find the "risk value" of their assessment results as long as they have the
+> 5 values from their coded measurements. Is there a way to get excel to give
+> me all of the possible combinations of those 5 category's values (each
+> value has 2 - 9 numerical options, all consecutive - for example, the
+> Weight can be any integer from 1-6, the Horizontal Distance can be any
+> integer from 1-7.) I feel like there must be a really easy way to get excel
+> to generate all possible risk values (although it will be hundreds of them)
+> given that i have already put in the formulas and know what ranges each of
+> the 5 categories can be. People have suggested 'data tables' and
+> 'scenarios' in excel, but I can't seem to find a way to get more than two
+> categories to change or find a youtube tutorial that is even mildly
+> helpful. I need every combination of the 5 categories, which means yes,
+> only two categories may change in many of the situations, but then also 3
+> of the 5 may change, all 5 may change, only 1 may change, etc. All of these
+> would give a slightly different "Risk Value."
+> 
+> I have attached my excel sheet so you can have a better idea of what I am
+> talking about.
+> 
+> I have also attached the paper where I derived the formulas, in case that
+> is also helpful.
+> 
+> Are there any youtube tutorials  and/or forum threads that detail quickly
+> and concisely exactly who to do this?
+
+Yes and yes!
